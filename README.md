@@ -23,7 +23,7 @@ Frontend / full-stack engineering, AI agents and RAG systems, and geoscience dat
 | [docgen](https://github.com/SinanHammer/docgen) | Next.js PRD/HLD/LLD/DBDD/SRS document generator with Redux + localStorage persistence. | TypeScript | Original |
 | [fashion-ecommerce-store](https://github.com/SinanHammer/fashion-ecommerce-store) | Womenswear e-commerce frontend in React 18 + TypeScript, with Supabase backend and VIP roles. | TypeScript | Original |
 | [membagu](https://github.com/SinanHammer/membagu) | Ebbinghaus-based spaced repetition app for interview prep, built with Vue 3, Express and Edge TTS. | Vue | Original |
-| [shaw-science-explainer-site](https://github.com/SinanHammer/shaw-science-explainer-site) | Website of the Shaw Science Interpretation Team (CUG Wuhan), built with Sphinx and Read the Docs. | Python | Original |
+| shaw-science-explainer-site | Website of the Shaw Science Interpretation Team (CUG Wuhan), built with Sphinx and Read the Docs. | Python | Original |
 
 ## 2. AI / ML - RAG, LLM, geoscience
 
